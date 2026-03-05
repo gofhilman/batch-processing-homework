@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Ignore common output directories
+output/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
